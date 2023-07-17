@@ -1,7 +1,9 @@
+import { Router } from 'react-router-dom';
+
 function App() {
   return (
     <div>
-      씨발
+      <Router />
     </div>
   );
 }
